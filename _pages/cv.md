@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<u> **[PDF version](https://drive.google.com/file/d/16iPxRyrwvCl0RtOTxfKWDCkjn7U90hv1/view?usp=sharing)** </u> 
+
 Education
 ======
 * Ph.D in Life Sciences, Weizmann Institute of Science, 2021 (expected)
