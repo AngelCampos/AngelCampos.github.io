@@ -14,6 +14,18 @@ Hello, my name is Miguel. I'm a PhD student at the [Schwartz Lab](http://www.wei
 
 In the Schwartz lab, we work in the field of Epitranscriptomics, a relatively new and booming research field that deals with the biochemical modifications of RNA molecules of all living organisms and even viruses. My current work revolves around the RNA modification [m6A](https://en.wikipedia.org/wiki/N6-Methyladenosine). m6A is a highly abundant RNA modification present in all eukaryotes, and it has recently received attention as a potential therapeutic target for treating diseases such as Cancer, Osteoporosis, Obesity, and Diabetes. In my latest [published work](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), we developed a methodology that is able to detect and quantify m6A in a high-throughput, single-nucleotide, and antibody-independent manner. We also uncovered a code that dictates m6A deposition across the transcriptomes of mouse and yeast, making m6A deposition predictable.
 
+<!-- Place <div> tag where you want the feed to appear -->
+<div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+<script type="text/javascript">
+/* curator-feed-default-feed-layout */
+(function(){
+var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+i.src = "https://cdn.curator.io/published/5d73e289-6781-43e7-a2c1-956c76edc1df.js";
+e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+})();
+</script>
+
 ## Status Updates
 
 * **21-Jun-2021 - Award:** Lady Anne Chain Memorial Prize for academic excellence during Ph.D. studies at the Weizmann Institute of Science. [Video](https://youtu.be/WxD0a7wyhPQ?t=3393)
