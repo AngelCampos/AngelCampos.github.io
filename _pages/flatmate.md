@@ -46,4 +46,3 @@ If you are interested please send me a message through WhatsApp (+972 0587817336
 ![dinRoom1](https://user-images.githubusercontent.com/9357097/81887373-9195c000-9564-11ea-8e91-8f4608380455.jpg){:height="30%" width="30%"} 
 
 
-<img src="https://ghchart.rshah.org/AngelCampos" alt="GitHub contributions in the last year" />    
