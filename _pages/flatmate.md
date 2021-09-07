@@ -45,6 +45,29 @@ If you are interested please send me a message through WhatsApp (+972 0587817336
 
 ![dinRoom1](https://user-images.githubusercontent.com/9357097/81887373-9195c000-9564-11ea-8e91-8f4608380455.jpg){:height="30%" width="30%"} 
 
+
+<!-- Include the library. -->
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
+></script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    // or enable responsive functionality
+    GitHubCalendar(".calendar", "AngelCampos", { responsive: true });
+</script>
+
 <!---
 <img src="https://xxx.jpg" alt="xxx" style="height:350px;"/>
 ![fig1](https://xxx.jpg){:height="30%" width="30%"} ![fig2](https://xxx.jpg){:height="30%" width="30%"}
