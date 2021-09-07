@@ -9,7 +9,7 @@ paperurl: 'https://link.springer.com/article/10.1007/s00284-020-02237-3'
 citation: 'González, J., Castillo, R., García-Campos, M. A., Noriega-Samaniego, D., Escobar-Sánchez, V., Romero-Aguilar, L., ... & Segal-Kischinevzky, C. (2020). Tolerance to Oxidative Stress in Budding Yeast by Heterologous Expression of Catalases A and T from Debaryomyces hansenii. Current Microbiology, 77(12), 4000-4015.'
 ---
 
-![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00284-020-02237-3/MediaObjects/284_2020_2237_Fig1_HTML.png?as=webp)
+![](/images/publications_figs/yeastROS.png)
 
 Abstract
 ==========
