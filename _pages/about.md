@@ -30,11 +30,12 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
-* **21-Jun-2021 - Award:** Lady Anne Chain Memorial Prize for academic excellence during Ph.D. studies at the Weizmann Institute of Science. [Video](https://youtu.be/WxD0a7wyhPQ?t=3393)
-* **25-Oct-2020 - Teaching:** [Principles and practice of large scale data analysis using R 2021-1](https://angelcampos.github.io/teaching/2021-Rcourse) course starts. [Recordings available for WIS students and auditors](https://weizmann.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%225b1109c5-94da-4bfe-8b62-ac5e005fd3d9%22)
-* **16-Oct-2020 - Published work:** González et al., ["Tolerance to Oxidative Stress in Budding Yeast by Heterologous Expression of Catalases A and T from Debaryomyces hansenii"](https://link.springer.com/article/10.1007/s00284-020-02237-3)
+* **03-September-2021 - Published work:** Dierks, et al., [Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution](https://www.nature.com/articles/s41592-021-01242-z).
+* **21-June-2021 - Award:** Lady Anne Chain Memorial Prize for academic excellence during Ph.D. studies at the Weizmann Institute of Science. [Video](https://youtu.be/WxD0a7wyhPQ?t=3393).
+* **25-October-2020 - Teaching:** [Principles and practice of large scale data analysis using R 2021-1](https://angelcampos.github.io/teaching/2021-Rcourse) course starts. [Recordings available for WIS students and auditors](https://weizmann.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%225b1109c5-94da-4bfe-8b62-ac5e005fd3d9%22).
+* **16-October-2020 - Published work:** González, et al., ["Tolerance to Oxidative Stress in Budding Yeast by Heterologous Expression of Catalases A and T from Debaryomyces hansenii"](https://link.springer.com/article/10.1007/s00284-020-02237-3).
 * **17-February-2020 - Poster:** [ILANIT-2020:](https://bit.ly/ilanitPoster); BioTrivia 1st place Winner! :) [Video](https://youtu.be/iZH_RLJXDh0).
 * **24-October-2019 - Short talk:** "MAZTER-seq and the m6A code" [Slides](http://bit.ly/IsraelRNA_2019_shortTalk), 2019 RNA Biology and Processing meeting in memory of Prof. Yossi Sperling, Tel Aviv, Israel.
-* **05-August-2019 - Media coverage:** Sneaky RNA Tag Rendered Visible, [article](https://wis-wander.weizmann.ac.il/life-sciences/sneaky-rna-tag-rendered-visible) covering the publication of our work developing MAZTER-seq
+* **05-August-2019 - Media coverage:** Sneaky RNA Tag Rendered Visible, [article](https://wis-wander.weizmann.ac.il/life-sciences/sneaky-rna-tag-rendered-visible) covering the publication of our work developing MAZTER-seq.
 * **27-June-2019 - Published work:** Garcia-Campos, et al. ["Deciphering the “m6A Code” via Antibody-Independent Quantitative Profiling."](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2) *Cell* (2019).
-* **4-March-2019 - Published preprint:** Garcia-Campos, Miguel Angel, et al. ["Deciphering the'm6A code'via quantitative profiling of m6A at single-nucleotide resolution."](https://www.biorxiv.org/content/10.1101/571679v1) *BioRxiv* (2019): 571679.
+* **4-March-2019 - Published preprint:** Garcia-Campos, et al. ["Deciphering the'm6A code'via quantitative profiling of m6A at single-nucleotide resolution."](https://www.biorxiv.org/content/10.1101/571679v1) *BioRxiv* (2019): 571679.
