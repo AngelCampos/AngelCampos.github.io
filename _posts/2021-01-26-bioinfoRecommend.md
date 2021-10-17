@@ -14,15 +14,22 @@ tags:
 This is a list of some resources I find useful to 
 conduct data analysis in Life Sciences Research,
 some of them more specific to the field of Genomics,
-Transcriptomics, and RNA-seq derived methods.
+Transcriptomics, and RNA-seq derived methods. 
 
 ## Programming
 
 - [R programming by Roger D. Peng](https://www.coursera.org/learn/r-programming)
-	+ Also good ebooks at [Leanpub](https://leanpub.com/u/rdpeng)
-- [Command Line Tools for Genomic Data Science by Liliana Florea](https://www.coursera.org/learn/genomic-tools)
-- [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing)
-- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools#syllabus)
+	+ You can also find hiss ebooks at [Leanpub](https://leanpub.com/u/rdpeng)
+- [Command Line Tools for Genomic Data Science by Liliana Florea](https://www.coursera.org/learn/genomic-tools).
+Great course to learn the most essential tools included in UNIX systems, unlocking a powerfull digital workbench.
+- [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing). A great course into key concepts
+of DNA sequence data analysis, which are useful as well for RNA-seq data analysis.
+- [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools#syllabus). 
+A course that introduces to a set of tools for scientific work in data analyis,
+centering in the programming language R, Rstudio, and Git's version control. I highly recommend this course, 
+especially if you plan to use R as one of your main tools. Version control will make you more organized
+and keep track of changes to all your code; and Rmarkdown will show you that communicable and reproducible 
+scientific results are possible and should be painless.
 
 ## R packages
 
@@ -36,7 +43,9 @@ analysis that requires single-nucleotide resolution.
 
 ### Bioinformatics
 
-- STAR: RNA-seq reads aligner
+Just found this nice [Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/). 
+It is a collection of videos of lectures in bioinformatics and statistics for Harvard students.
+The lecturers are from top institutes (Harvard, Broad, etc) And it seems very well structured.
 
 ### Unix
 
