@@ -28,8 +28,8 @@ that looks on to the street.
 
 ## Important notes:
 
-- We are three guys, but one of us is interested in staying, consider this.
-If you are by yourself you will only need to find another person, which is fairly easy in WIS.
+- One of us (male) is interested in staying, consider this if you need flatmates, 
+if you are by yourself you will only need to find another person, which is fairly easy in WIS.
 - Most of the appliances and furniture were bougth by us, and some we got them for free or at low cost,
 but we still will need to negotiate a prize for all you want to keep in the 
 apartment, the rest will be sold or donated, will not be kept.
