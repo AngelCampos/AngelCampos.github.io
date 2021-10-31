@@ -37,7 +37,7 @@ apartment, the rest will be sold or donated, will not be kept.
 ## How much?:
 
 - The rent is ₪5296. It includes Arnona (₪1250 every two months), Building maintenance fee (₪170), and rent (₪4500).
-- Utilities (Internet, gas, electricity, and water) round about **~ ₪ 200** or less per month per person, as of now that we are three. 
+- Utilities (Internet, gas, electricity, and water) round about **~ ₪ 150-200** or less per month per person, as of now that we are three. 
 
 ## Contact:
 
