@@ -19,3 +19,9 @@ The function of catalases A and T from the budding yeast Saccharomyces cerevisia
 	<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 	<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1007/s00284-020-02237-3" class="altmetric-embed"></div>
 </dl>
+
+
+<dl>
+	<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+	<a href="https://plu.mx/plum/a/?doi=10.1007%2Fs00284-020-02237-3" class="plumx-details plum-bigben-theme" data-site="plum" data-hide-when-empty="true">Tolerance to Oxidative Stress in Budding Yeast by Heterologous Expression of Catalases A and T from Debaryomyces hansenii</a>
+</dl>

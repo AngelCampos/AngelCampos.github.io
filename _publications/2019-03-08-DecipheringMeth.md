@@ -17,3 +17,9 @@ N6-methyladenosine (m6A) is the most abundant modification on mRNA, and is impli
 	<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 	<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1101/571679" class="altmetric-embed"></div>
 </dl>
+
+
+<dl>
+	<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+	<a href="https://plu.mx/plum/a/?doi=10.1101%2F571679" class="plumx-details plum-bigben-theme" data-site="plum" data-hide-when-empty="true">Deciphering the ‘m6A code’ via quantitative profiling of m6A at single-nucleotide resolution</a>
+</dl>
