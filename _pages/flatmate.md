@@ -1,5 +1,5 @@
 ---
-permalink: /haraaz_13/
+permalink: /haraaz_13_hid/
 title: "Looking for flatmates!"
 author_profile: true
 ---
