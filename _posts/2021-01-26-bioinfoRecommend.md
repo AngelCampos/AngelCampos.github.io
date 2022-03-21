@@ -18,8 +18,15 @@ Transcriptomics, and RNA-seq derived methods.
 
 ## Programming
 
-- [R programming by Roger D. Peng](https://www.coursera.org/learn/r-programming)
-	+ You can also find hiss ebooks at [Leanpub](https://leanpub.com/u/rdpeng)
+### R
+
+- [R programming by Roger D. Peng](https://www.coursera.org/learn/r-programming). A 
+nicely paced introductory course to R. After this course you will be able to use R
+for many basic data analyisi tasks
+	+ You can also find hiss ebooks at [Leanpub](https://leanpub.com/rprogramming), (Beginner lvl.).
+- [R for data science by Hadley Wickham & Garrett Grolemund](https://r4ds.had.co.nz/index.html). 
+An amazing guide on how to explore, manipulate, program, model, and communicate for Data Science, (Intermediate lvl.).
+
 - [Command Line Tools for Genomic Data Science by Liliana Florea](https://www.coursera.org/learn/genomic-tools).
 Great course to learn the most essential tools included in UNIX systems, unlocking a powerfull digital workbench.
 - [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing). A great course into key concepts
