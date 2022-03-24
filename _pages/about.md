@@ -34,6 +34,7 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
+* **17-February-2022 - PhD thesis defense:** "Towards single-nucleotide resolution maps of RNA modifications"
 * **03-September-2021 - Published work:** Dierks, et al., [Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution](https://www.nature.com/articles/s41592-021-01242-z).
 * **21-June-2021 - Award:** Lady Anne Chain Memorial Prize for academic excellence during Ph.D. studies at the Weizmann Institute of Science. [Video](https://youtu.be/WxD0a7wyhPQ?t=3393).
 * **25-October-2020 - Teaching:** [Principles and practice of large scale data analysis using R 2021-1](https://angelcampos.github.io/teaching/2021-Rcourse) course starts. [Recordings available for WIS students and auditors](https://weizmann.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%225b1109c5-94da-4bfe-8b62-ac5e005fd3d9%22).
