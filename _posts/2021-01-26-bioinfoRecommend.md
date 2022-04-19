@@ -16,16 +16,7 @@ conduct data analysis in Life Sciences Research,
 some of them more specific to the field of Genomics,
 Transcriptomics, and RNA-seq derived methods. 
 
-## Programming
-
-### R
-
-- [R programming by Roger D. Peng](https://www.coursera.org/learn/r-programming). A 
-nicely paced introductory course to R. After this course you will be able to use R
-for many basic data analyisi tasks
-	+ You can also find hiss ebooks at [Leanpub](https://leanpub.com/rprogramming), (Beginner lvl.).
-- [R for data science by Hadley Wickham & Garrett Grolemund](https://r4ds.had.co.nz/index.html). 
-An amazing guide on how to explore, manipulate, program, model, and communicate for Data Science, (Intermediate lvl.).
+## General programming
 
 - [Command Line Tools for Genomic Data Science by Liliana Florea](https://www.coursera.org/learn/genomic-tools).
 Great course to learn the most essential tools included in UNIX systems, unlocking a powerfull digital workbench.
@@ -33,12 +24,28 @@ Great course to learn the most essential tools included in UNIX systems, unlocki
 of DNA sequence data analysis, which are useful as well for RNA-seq data analysis.
 - [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools#syllabus). 
 A course that introduces to a set of tools for scientific work in data analyis,
-centering in the programming language R, Rstudio, and Git's version control. I highly recommend this course, 
-especially if you plan to use R as one of your main tools. Version control will make you more organized
+centering in the programming language R, Rstudio, and Git's version control.
+ I highly recommend this course, 
+especially if you plan to use R and Rstudio as your main workbench.
+ Version control good practices will make your work more organized
 and keep track of changes to all your code; and Rmarkdown will show you that communicable and reproducible 
 scientific results are possible and should be painless.
 
-## R packages
+## R
+
+- [R programming by Roger D. Peng](https://www.coursera.org/learn/r-programming). A 
+nicely paced introductory course to R. After this course you will be able to use R
+for many basic data analyisi tasks
+  + You can also find hiss ebooks at [Leanpub](https://leanpub.com/rprogramming), (Beginner lvl.).
+- [R for data science by Hadley Wickham & Garrett Grolemund](https://r4ds.had.co.nz/index.html). 
+An amazing guide on how to explore, manipulate, program, model, and communicate for Data Science, (Intermediate lvl.).
+
+- [R packages by Hadley Wickham](https://r-pkgs.org/index.html) A great practical reference 
+to creating R packages using the R package devtools. It has been the main source of help to develop 
+my R packages.
+
+- [Advanced R]
+### Bioconductor
 
 - Rsamtools
 - GenomicAlignments
@@ -46,7 +53,6 @@ scientific results are possible and should be painless.
 developed to retrieve count data from alignment files (BAM) to perform
 analysis that requires single-nucleotide resolution.
 
-## Other tools I use a lot
 
 ### Bioinformatics
 
@@ -60,9 +66,7 @@ The lecturers are from top institutes (Harvard, Broad, etc) And it seems very we
 
 ## Ebooks
 
-- [R packages by Hadley Wickham](https://r-pkgs.org/index.html) A great practical reference 
-to creating R packages using the R package devtools. It has been the main source of help to develop 
-my R packages.
+
 
 ## Coursera guided projects?
 
