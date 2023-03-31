@@ -34,6 +34,8 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
+* **06-December-2022 - Oral Presentation:** "STORM-seq: a technology for simultaneous sequencing of twelve (and more) rRNA modifications". [Slides](https://docs.google.com/presentation/d/1IZ7u9zqkLRWRR7RGFD2o6z202BPj3ZLA/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). RNA biology 2022 Cold Spring Harbor-Asia, Awaji, Japan.
+* **18-March-2022 - Lecture:** MAZTER-seq, el código de m6A de levadura a mamíferos. [Slides](https://docs.google.com/presentation/d/1PnM8c6rnpWSjVRT5MYNRR-w-gP3PKRC9/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). Curso preparación para docentes 2022-1, Universidad Técnica de Ambato, Ecuador.
 * **17-February-2022 - PhD thesis defense:** "Towards single-nucleotide resolution maps of RNA modifications"
 * **03-September-2021 - Published work:** Dierks, et al., [Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution](https://www.nature.com/articles/s41592-021-01242-z).
 * **21-June-2021 - Award:** Lady Anne Chain Memorial Prize for academic excellence during Ph.D. studies at the Weizmann Institute of Science. [Video](https://youtu.be/WxD0a7wyhPQ?t=3393).
