@@ -10,9 +10,30 @@ redirect_from:
 
 ![alt text](images/topCover.jpg "Makhtesh Ramon Crater")
 
-Hello, my name is Miguel. I'm a PhD student at the [Schwartz Lab](http://www.weizmann.ac.il/molgen/Schwartz/) of the Weizmann Institute of Science. I am a biologist with great interest in understanding life from a quantitative, mechanistic and systematic perspective. My current efforts are focused on advancing the understanding of RNA modifications. And, I am from Mexico!
+Hello, my name is Miguel. I am a biologist with great interest in understanding 
+life from a quantitative and systematic perspective. My current efforts are 
+focused on advancing the understanding of RNA modifications, with a focus on 
+the abundant mRNA modification N6-Methyladenosine (m6A). I am currently an 
+academic collaborator at the [Schwartz Lab](http://www.weizmann.ac.il/molgen/Schwartz/) 
+of the Weizmann Institute of Science, in which I recently graduated as a PhD 
+and I am looking for a prospective lab to continue my work as a postdoctoral 
+fellow.
 
-In the Schwartz lab, we work in the field of Epitranscriptomics, a relatively new and booming research field that deals with the biochemical modifications of RNA molecules of all living organisms and even viruses. My current work revolves around the RNA modification [m6A](https://en.wikipedia.org/wiki/N6-Methyladenosine). m6A is a highly abundant RNA modification present in all eukaryotes, and it has recently received attention as a potential therapeutic target for treating diseases such as Cancer, Osteoporosis, Obesity, and Diabetes. In my latest [published work](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), we developed a methodology that is able to detect and quantify m6A in a high-throughput, single-nucleotide, and antibody-independent manner. We also uncovered a code that dictates m6A deposition across the transcriptomes of mouse and yeast, making m6A deposition predictable.
+
+In the Schwartz lab, we work in the field of Epitranscriptomics, a relatively 
+new and booming research field that deals with the biochemical modifications 
+of RNA molecules of all living organisms and even viruses. My current work 
+revolves around the RNA modification [m6A](https://en.wikipedia.org/wiki/N6-Methyladenosine).
+m6A is a highly abundant mRNA modification present in all eukaryotes, 
+and it has recently received attention as a potential therapeutic target for 
+treating diseases such as Cancer, Osteoporosis, Obesity, and Diabetes. 
+At the SchwartzLab, we developed [a methodology](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), 
+that is able to detect and quantify m6A in a high-throughput, single-nucleotide,
+ and antibody-independent manner. Using this new technology we uncovered a code
+that dictates m6A deposition across the transcriptomes of mouse and yeast, 
+one of our main conclusions is that m6A deposition is strongly coded in the RNA
+sequence of each gene.
+
 
 ## Last Year [GitHub contributions](https://github.com/AngelCampos)
 
@@ -36,6 +57,7 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 * **06-December-2022 - Oral Presentation:** "STORM-seq: a technology for simultaneous sequencing of twelve (and more) rRNA modifications". [Slides](https://docs.google.com/presentation/d/1IZ7u9zqkLRWRR7RGFD2o6z202BPj3ZLA/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). RNA biology 2022 Cold Spring Harbor-Asia, Awaji, Japan.
 * **18-March-2022 - Lecture:** MAZTER-seq, el código de m6A de levadura a mamíferos. [Slides](https://docs.google.com/presentation/d/1PnM8c6rnpWSjVRT5MYNRR-w-gP3PKRC9/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). Curso preparación para docentes 2022-1, Universidad Técnica de Ambato, Ecuador.
+* **01-March-2022 - Postdoctoral fellowship:** Continue my work at the Schwartz Lab.
 * **17-February-2022 - PhD thesis defense:** "Towards single-nucleotide resolution maps of RNA modifications"
 * **03-September-2021 - Published work:** Dierks, et al., [Multiplexed profiling facilitates robust m6A quantification at site, gene and sample resolution](https://www.nature.com/articles/s41592-021-01242-z).
 * **21-June-2021 - Award:** Lady Anne Chain Memorial Prize for academic excellence during Ph.D. studies at the Weizmann Institute of Science. [Video](https://youtu.be/WxD0a7wyhPQ?t=3393).
