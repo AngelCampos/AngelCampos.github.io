@@ -27,17 +27,17 @@ revolves around the RNA modification [m6A](https://en.wikipedia.org/wiki/N6-Meth
 m6A is a highly abundant mRNA modification present in all eukaryotes, 
 and it has recently received attention as a potential therapeutic target for 
 treating diseases such as Cancer, Osteoporosis, Obesity, and Diabetes. 
-At the SchwartzLab, we developed [a methodology](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), 
-that is able to detect and quantify m6A in a high-throughput, single-nucleotide,
- and antibody-independent manner. Using this new technology we uncovered a code
-that dictates m6A deposition across the transcriptomes of mouse and yeast, 
-one of our main conclusions is that m6A deposition is strongly coded in the RNA
-sequence of each gene.
+At the SchwartzLab, we developed and [published](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), 
+a methodology that is able to detect and quantify m6A in a high-throughput, 
+single-nucleotide, and antibody-independent manner. Using this new technology 
+we uncovered a code that dictates m6A deposition across the transcriptomes of 
+mouse and yeast, one of our main conclusions is that m6A deposition is strongly 
+coded in the RNA sequence of each gene.
 
 
-## Last Year [GitHub contributions](https://github.com/AngelCampos)
+## Last Year [GitHub](https://github.com/AngelCampos) contributions** *Powered by* [*githubchart-api*](https://github.com/2016rshah/githubchart-api)
 
-<img src="https://ghchart.rshah.org/2589BD/AngelCampos" alt="GitHub contributions in the last year" />    
+<img src="https://ghchart.rshah.org/2589BD/AngelCampos" alt="Miguel's GitHub contributions in the last year" />    
 
 ## Gallery
 
