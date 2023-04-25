@@ -35,7 +35,7 @@ mouse and yeast, one of our main conclusions is that m6A deposition is strongly
 coded in the RNA sequence of each gene.
 
 
-## Last Year [GitHub](https://github.com/AngelCampos) contributions** *Powered by* [*githubchart-api*](https://github.com/2016rshah/githubchart-api)
+## Last Year [GitHub](https://github.com/AngelCampos) contributions *Powered by* [*githubchart-api*](https://github.com/2016rshah/githubchart-api)
 
 <img src="https://ghchart.rshah.org/2589BD/AngelCampos" alt="Miguel's GitHub contributions in the last year" />    
 
