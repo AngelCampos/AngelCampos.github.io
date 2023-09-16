@@ -55,6 +55,7 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
+* **26-August-2023** - Published preprint:** Garcia-Campos, M. A., & Schwartz, S. (2023). [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://www.biorxiv.org/content/10.1101/2023.08.24.554738). bioRxiv, 2023-08.
 * **06-December-2022 - Oral Presentation:** "STORM-seq: a technology for simultaneous sequencing of twelve (and more) rRNA modifications". [Slides](https://docs.google.com/presentation/d/1IZ7u9zqkLRWRR7RGFD2o6z202BPj3ZLA/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). RNA biology 2022 Cold Spring Harbor-Asia, Awaji, Japan.
 * **18-March-2022 - Lecture:** MAZTER-seq, el código de m6A de levadura a mamíferos. [Slides](https://docs.google.com/presentation/d/1PnM8c6rnpWSjVRT5MYNRR-w-gP3PKRC9/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). Curso preparación para docentes 2022-1, Universidad Técnica de Ambato, Ecuador.
 * **01-March-2022 - Postdoctoral fellowship:** Continue my work at the Schwartz Lab.
