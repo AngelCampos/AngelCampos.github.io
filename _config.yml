@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Miguel A. García-Campos"
 title_separator          : "-"
-name                     : &name "Miguel Angel García-Campos"
-description              : &description "PhD student at the Weizmann Institute."
+name                     : &name "Miguel Angel García-Campos, PhD"
+description              : &description "Academic collaborator at the Weizmann Institute."
 url                      : https://angelcampos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AngelCampos/angelcampos.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &fangookami
+  username               : &GarciaCamposM
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Miguel Angel García-Campos"
   avatar           : "profile.png"
-  bio              : "A biologist using programming, statistics, and math as tools for understanding life."
+  bio              : "A biologist working on RNA modifications ."
   location         : "Israel <--> México"
   employer         : "Weizmann Institute of Science"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1RUo_bmgziyglN/bibliography/public/"
-  googlescholar    : "https://scholar.google.com/citations?user=-J7nzzcAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=vrCwdE8AAAAJ&hl"
   email            : "angel.campos@weizmann.ac.il"
   researchgate     : "https://www.researchgate.net/profile/Miguel_Angel_Garcia-Campos"
   uri              :

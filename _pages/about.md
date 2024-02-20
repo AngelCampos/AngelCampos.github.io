@@ -12,23 +12,24 @@ redirect_from:
 
 Hello, my name is Miguel. I am a biologist with great interest in understanding 
 life from a quantitative and systematic perspective. My current efforts are 
-focused on advancing the understanding of RNA modifications, with a focus on 
-the abundant mRNA modification N6-Methyladenosine (m6A). I am currently an 
-academic collaborator at the [Schwartz Lab](http://www.weizmann.ac.il/molgen/Schwartz/) 
-of the Weizmann Institute of Science, in which I recently graduated as a PhD 
+focused on advancing the understanding of RNA modifications, working in the 
+development of technologies to detect and quantify different moieties across 
+whole transcriptomes. 
+
+I am currently an academic collaborator at the [Schwartz Lab](http://www.weizmann.ac.il/molgen/Schwartz/) 
+of the Weizmann Institute of Science, from which I recently graduated as a PhD 
 and I am looking for a prospective lab to continue my work as a postdoctoral 
 fellow.
 
-
-In the Schwartz lab, we work in the field of Epitranscriptomics, a relatively 
-new and booming research field that deals with the biochemical modifications 
-of RNA molecules of all living organisms and even viruses. My current work 
-revolves around the RNA modification [m6A](https://en.wikipedia.org/wiki/N6-Methyladenosine).
+In the Schwartz lab, we work in the field of Epitranscriptomics, a 
+booming research field that deals with the biochemical modifications 
+of RNA molecules of all living organisms and even viruses. My previous work 
+revolved around [N6-methyladenosine (m6A)](https://en.wikipedia.org/wiki/N6-Methyladenosine).
 m6A is a highly abundant mRNA modification present in all eukaryotes, 
 and it has recently received attention as a potential therapeutic target for 
 treating diseases such as Cancer, Osteoporosis, Obesity, and Diabetes. 
-At the SchwartzLab, we developed and [published](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), 
-a methodology that is able to detect and quantify m6A in a high-throughput, 
+At the SchwartzLab, we developed [a methodology](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), 
+that is able to detect and quantify m6A in a high-throughput, 
 single-nucleotide, and antibody-independent manner. Using this new technology 
 we uncovered a code that dictates m6A deposition across the transcriptomes of 
 mouse and yeast, one of our main conclusions is that m6A deposition is strongly 
@@ -55,7 +56,7 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
-* **26-August-2023** - Published preprint:** Garcia-Campos, M. A., & Schwartz, S. (2023). [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://www.biorxiv.org/content/10.1101/2023.08.24.554738). bioRxiv, 2023-08.
+* **26-August-2023 - Published preprint:** Garcia-Campos, M. A., & Schwartz, S. (2023). [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://www.biorxiv.org/content/10.1101/2023.08.24.554738). bioRxiv, 2023-08.
 * **06-December-2022 - Oral Presentation:** "STORM-seq: a technology for simultaneous sequencing of twelve (and more) rRNA modifications". [Slides](https://docs.google.com/presentation/d/1IZ7u9zqkLRWRR7RGFD2o6z202BPj3ZLA/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). RNA biology 2022 Cold Spring Harbor-Asia, Awaji, Japan.
 * **18-March-2022 - Lecture:** MAZTER-seq, el código de m6A de levadura a mamíferos. [Slides](https://docs.google.com/presentation/d/1PnM8c6rnpWSjVRT5MYNRR-w-gP3PKRC9/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). Curso preparación para docentes 2022-1, Universidad Técnica de Ambato, Ecuador.
 * **01-March-2022 - Postdoctoral fellowship:** Continue my work at the Schwartz Lab.

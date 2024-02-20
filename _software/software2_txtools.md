@@ -4,18 +4,22 @@ excerpt: "An R package that processes GenomicAlignments into their transcriptomi
 collection: software
 ---
 
-<!-- badges: start -->
-
-[![](https://img.shields.io/badge/devel%20version-0.0.2-blue.svg)](https://github.com/AngelCampos/txtools)
-<!-- badges: end -->
+> **Update!**: txtools now has a [webpage](https://angelcampos.github.io/txtools/) and a 
+[pre-print in bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.24.554738v1).
 
 ## Description
 
-**txtools** is a package that processes RNA-seq reads alignments into
-transcriptomic-oriented objects, focusing on data.tables (DT). This
-enables a quick and simplified analysis, to closely inspection summary
-metrics per transcript, at nucleotide resolution, i.e. coverage,
-read-starts, read-ends, deletions, and nucleotide frequency.
+**txtools** is a package that processes RNA-seq reads alignments into 
+transcriptomic-oriented tables. Enabling a quick and simplified analysis, 
+to closely inspect summarized RNA-seq data per transcript, at nucleotide 
+resolution, i.e. coverage, read-starts, read-ends, deletions, and nucleotide 
+frequency. Attractive plotting is also readily available to visualize data.
+
+The main processing pipeline of txtools consists of 1) converting genomic 
+alignments into transcriptomic space and merging paired-end reads using 
+tx_reads() and 2) summarize counts for ‘readouts’ (coverage, read-start, 
+read-ends, nucleotide frequency, deletions) along the transcriptome using 
+a function of the tx_makeDT_*() family.
 
 ![mainFunctions](https://raw.githubusercontent.com/AngelCampos/txtools/master/man/figures/readme_1.png)
 
