@@ -3,13 +3,13 @@ title: "Dissecting the sequence and structural determinants guiding m6A depositi
 collection: articles
 permalink: /publication/2024-02-15_m6ACisTransDissection
 excerpt: "In this paper we dissect the determinants governing RNA methylation via interspecies and intraspecies hybrids in yeast and mammalian systems, coupled with massively parallel reporter assays and m6A-QTL reanalysis.<br/><br/><img src='/images/publications_figs/m6ACisTransDissection.png'><br/>"
-date: 2024/02/15
+date: 2024-02-15
 venue: 'BMC - Genome Biology'
 paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03182-1' 
 citation: 'Shachar, R., Dierks, D., Garcia-Campos, M. A., Uzonyi, A., Toth, U., Rossmanith, W., & Schwartz, S. (2024). Dissecting the sequence and structural determinants guiding m6A deposition and evolution via inter-and intra-species hybrids. Genome Biology, 25(1), 1-29.'
 ---
 
-![]()
+![](/images/publications_figs/m6ACisTransDissection.png)
 
 Abstract
 ==========

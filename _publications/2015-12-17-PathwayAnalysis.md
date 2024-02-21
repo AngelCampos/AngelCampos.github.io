@@ -2,12 +2,14 @@
 title: "Pathway Analysis: State of the Art"
 collection: articles
 permalink: /publication/2015-12-17_PathwayAnalysis
-excerpt: "This review's aim is to give an overview of what pathway analysis is and how different methods have developed encompassing the same idea of trying to identify biologically meaningful categories that are relevant for the results obtained from Omics experimental data."
+excerpt: "This review's aim is to give an overview of what pathway analysis is and how different methods have developed encompassing the same idea of trying to identify biologically meaningful categories that are relevant for the results obtained from Omics experimental data. <br/><br/><img src='/images/publications_figs/fphys_2015.png'><br/>"
 date: 2015-12-17
 venue: 'Frontiers in Physiology'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fphys.2015.00383' 
 citation: 'García-Campos, M.A., Espinal-Enríquez, J. and Hernández-Lemus, E., 2015. Pathway analysis: state of the art. Frontiers in physiology, 6, p.383.'
 ---
+
+![](/images/publications_figs/fphys_2015.png)
 
 Abstract
 ==========

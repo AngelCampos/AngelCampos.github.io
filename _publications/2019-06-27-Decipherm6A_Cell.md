@@ -9,7 +9,7 @@ paperurl: 'https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2'
 citation: 'Garcia-Campos, M. A. et al. (2019) ‘Deciphering the “m6A Code” via Antibody-Independent Quantitative Profiling’, Cell. Elsevier, 0(0). doi: 10.1016/j.cell.2019.06.013.'
 ---
 
-![](https://marlin-prod.literatumonline.com/cms/attachment/bdce76a1-d8a0-4800-865e-78c282d9c961/fx1.jpg)
+![](/images/publications_figs/MAZTERseq.png)
 
 Summary
 ==========
