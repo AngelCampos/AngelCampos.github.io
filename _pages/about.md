@@ -56,6 +56,7 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
+* **21-March-2024 - Published work:** Garcia-Campos M.A. & Schwartz S. [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae203/7632932).
 * **15-February-2024 - Published work:** Shachar et al., [Dissecting the sequence and structural determinants guiding m6A deposition and evolution via inter- and intra-species hybrids](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03182-1).
 * **26-August-2023 - Published preprint:** Garcia-Campos, M. A. & Schwartz, S. [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://www.biorxiv.org/content/10.1101/2023.08.24.554738). bioRxiv, 2023-08.
 * **06-December-2022 - Oral Presentation:** "STORM-seq: a technology for simultaneous sequencing of twelve (and more) rRNA modifications". [Slides](https://docs.google.com/presentation/d/1IZ7u9zqkLRWRR7RGFD2o6z202BPj3ZLA/edit?usp=sharing&ouid=112657693539602588511&rtpof=true&sd=true). RNA biology 2022 Cold Spring Harbor-Asia, Awaji, Japan.
