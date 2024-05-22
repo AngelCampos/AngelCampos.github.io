@@ -42,20 +42,21 @@ coded in the RNA sequence of each gene.
 
 ## Gallery
 
-<!-- Place <div> tag where you want the feed to appear -->
 <div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+
 <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
 <script type="text/javascript">
 /* curator-feed-default-feed-layout */
 (function(){
-var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
-i.src = "https://cdn.curator.io/published/5d73e289-6781-43e7-a2c1-956c76edc1df.js";
-e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+var i,e,d=document,s="script";i=d.createElement("script");i.async=1;i.charset="UTF-8";
+i.src="https://cdn.curator.io/published/5d73e289-6781-43e7-a2c1-956c76edc1df.js";
+e=d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 })();
 </script>
 
 ## Status Updates
 
+* **14-May-2024 - Published preprint:** D Dierks, et al., [Passive shaping of intra- and intercellular m6A dynamics via mRNA metabolism](https://www.biorxiv.org/content/10.1101/2024.05.09.593376v1).
 * **21-March-2024 - Published work:** Garcia-Campos M.A. & Schwartz S. [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae203/7632932).
 * **15-February-2024 - Published work:** Shachar et al., [Dissecting the sequence and structural determinants guiding m6A deposition and evolution via inter- and intra-species hybrids](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03182-1).
 * **26-August-2023 - Published preprint:** Garcia-Campos, M. A. & Schwartz, S. [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://www.biorxiv.org/content/10.1101/2023.08.24.554738). bioRxiv, 2023-08.
